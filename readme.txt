@@ -8,7 +8,7 @@ Repositório para armazenar recursos sobre GIT e GitHub, do curso de versionamen
 - [Documentação GitHub](https://docs.github.com/pt)
 
 ## 💻 Comandos
----
+
     git status
 
     git init
